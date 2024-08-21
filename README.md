@@ -3,7 +3,8 @@
 - Nombre: Juan Antonio Villa Guerrero
 - Correo: javillaguerrero2206@gmail.com
 
-## Actividad 1
+## Actividad 2
 - p01 Hola Mundo
 - P02 Area circulo
 - p03 Area triangulo
+- p04 Paga trabajador

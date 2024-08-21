@@ -4,13 +4,6 @@
 - Correo: javillaguerrero2206@gmail.com
 
 ## Actividad 1
-- Programa 1
-- Programa 2
-- Programa 3
-
-## Actividad 2
-- Programa 4
-- Programa 5
-
-## Actividad 3
-- Programa 6
+- p01 Hola Mundo
+- P02 Area circulo
+- p03 Area triangulo

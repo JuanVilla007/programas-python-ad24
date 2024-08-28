@@ -16,3 +16,12 @@
 - p07 Funciones trigonometricas
 - p07b Funciones del modulo Math
 - p08 Dividir en cifras
+
+## Tarea 1
+
+## Actividad 4
+- p15 Verificar Numero
+- p16 Verificar Suma
+- p17 Convertir Temperatura
+- p17b Convertir Temperatura v2
+- p18 Paga Trabajador v2

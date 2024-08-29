@@ -18,6 +18,12 @@
 - p08 Dividir en cifras
 
 ## Tarea 1
+- p09 Hipotenusa de un triangulo
+- p10 Tercer angulo
+- p11 Convertir temperatura
+- p12 Volumen de un cilindro
+- p13 Calculo del tiempo
+- p14 Numero de la suerte
 
 ## Actividad 4
 - p15 Verificar Numero

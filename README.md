@@ -31,3 +31,10 @@
 - p17 Convertir Temperatura
 - p17b Convertir Temperatura v2
 - p18 Paga Trabajador v2
+
+## Actividad 5
+- p19 Verificar Suma
+- p20 Ley de Newton
+- p21 Aceptar Estudiante
+- p21b Aceptar Estudiante v2
+- p22 Tipo de Angulo

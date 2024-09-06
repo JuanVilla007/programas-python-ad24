@@ -38,3 +38,22 @@
 - p21 Aceptar Estudiante
 - p21b Aceptar Estudiante v2
 - p22 Tipo de Angulo
+
+## Tarea 2
+- p23 Numeros Concecutivos
+- p24 Numero Mayor
+- p25 Dia de la Semana
+- p26 Numero Romano
+- p27 Calculo de Notas
+- p28 Aceptar Estudiante v3
+
+## Actividad 6
+- p29 Numeros 1 al 100 v1
+- p29b Numeros 1 al 100 v2
+- p29c Numeros 1 al 100 v3
+- p30 Numeros 100 al 1 v1
+- p30b Numeros 100 al 1 v2
+- p30c Numeros 100 al 1 v3
+- p31 Numeros 1 al 200 de 10
+- p32 Numeros Suma 100
+- p33 Conteo de Numeros

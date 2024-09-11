@@ -57,3 +57,10 @@
 - p31 Numeros 1 al 200 de 10
 - p32 Numeros Suma 100
 - p33 Conteo de Numeros
+
+## Actividad 7
+- p34 Tabla de Conversion
+- p35 Conjetura de Collatz
+- p36 Tabla de Multiplicar
+- p37 Tabla de Multiplicar v2
+- p38 Adivina el numero

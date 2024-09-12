@@ -63,4 +63,15 @@
 - p35 Conjetura de Collatz
 - p36 Tabla de Multiplicar
 - p37 Tabla de Multiplicar v2
-- p38 Adivina el numero
+- p38 Adivina el Numero
+
+## Tarea 3
+- p39 Impares Ascendentes
+- p40 Pares Descendentes
+- p41 Promedio Suma
+- p42 Suma 200
+- p43 Conversion de Temperaturas
+- p44 Numero Mayor
+
+## Examen 1
+- p45 Primer Examen Parcial

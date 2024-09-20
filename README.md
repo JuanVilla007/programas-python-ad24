@@ -75,3 +75,16 @@
 
 ## Examen 1
 - p45 Primer Examen Parcial
+
+## Actividad 8
+- p46 Numeros 1 a 100
+- p46b Numeros 1 a 100 v2
+- p46c Numeros 1 a 100 v3
+- p47 Numeros 100 a 1
+- p47b Numeros 100 a 1 v2
+- p47c Numeros 100 a 1 v3
+- p48 Arriba abajo
+- p49 Suma Pares Impares
+- p50 Suma Numeros
+- p51 Multiplos de Suma
+- p52 Base Exponente

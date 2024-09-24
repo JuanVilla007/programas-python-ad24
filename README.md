@@ -88,3 +88,11 @@
 - p50 Suma Numeros
 - p51 Multiplos de Suma
 - p52 Base Exponente
+
+## Actividad 9
+- p53 Factorial
+- p54 Tablas de Multiplicar
+- p55 Piramide de Caracter
+- p56 Tablas de Multiplicar v2
+- p57 Factorial Numeros
+- p58 Combina Colores

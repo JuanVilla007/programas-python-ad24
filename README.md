@@ -96,3 +96,10 @@
 - p56 Tablas de Multiplicar v2
 - p57 Factorial Numeros
 - p58 Combina Colores
+
+## Tarea 4
+- p59 Numeros 10 en 10
+- p60 Suma Pares 2 n
+- p61 Secuencia Numeros 1
+- p62 Secuencia Numeros 2
+- p63 Secuencia Terminos 1

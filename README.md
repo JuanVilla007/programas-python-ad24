@@ -117,3 +117,10 @@
 - p67 Dia Paga
 - p68 Nombres Edades
 - p69 Listas Aleatorios
+
+## Actividad 12
+- p80-estudiante
+- p81-calificaciones
+- p82-nombres-edades
+- p83-conversion-medida
+- p84-conversion-moneda

@@ -112,11 +112,19 @@
 - p68 Iterar Lista
 
 ## Actividad 11
-- p65 Procesar Calificaciones
-- p66 Sumar Listas
-- p67 Dia Paga
-- p68 Nombres Edades
-- p69 Listas Aleatorios
+- p69 Procesar Calificaciones
+- p70 Sumar Listas
+- p71 Dia Paga
+- p72 Nombres Edades
+- p73 Listas Aleatorios
+
+## Tarea 5
+- p74-procesar-notas
+- p75-lista-multiplica
+- p76-meses-dia-nombre
+- p77-lista-aleatorios-suma
+- p78-ciudades
+- p79-lista-impares
 
 ## Actividad 12
 - p80-estudiante
@@ -124,3 +132,18 @@
 - p82-nombres-edades
 - p83-conversion-medida
 - p84-conversion-moneda
+
+## Actividad 13
+- p85-procesar-pizza
+- p86-lista-dic-auto
+- p87-lista-dic-estudiante
+- p88-cliente-productos
+- p89-area-figuras
+
+## Tarea 6
+- p90-crear-acceder-diccionario
+- p91-modificar-diccionario
+- p92-agregar-diccionario
+- p93-eliminar-diccionario
+- p94-procesar-diccionario
+- p95-contar-caracteres

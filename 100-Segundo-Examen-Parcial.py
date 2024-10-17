@@ -15,7 +15,6 @@ while True:
     if name == "*": break
     edad = int(input("Edad: "))
     sex = input("Sexo (H/M): ").lower()
-    if sex != "h" or sex != "m": break
     sueldo = float(input("Sueldo: "))
     pt = input("Pasatiempos (separados por espacio): ").lower().split(" ")
   

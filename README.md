@@ -197,3 +197,12 @@
 - p131-suma-digitos-lista
 - p132-calcula-factoriales
 - p133-estadisticas-basicas
+
+# Actividad 17 - Prog Orientada a Objetos - Parte 1
+- p134-empleado1
+- p135-empleado2
+- p136-circulo
+- p137-rectangulo
+
+# Tarea 9 – POO – Parte 1
+- p138-articulo
